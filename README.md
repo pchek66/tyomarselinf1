@@ -136,7 +136,7 @@
 <body>
     <div class="container">
         <header>
-            <img src="https://via.placeholder.com/120x120?text=SMAN+11" alt="Logo SMAN 11" class="school-logo">
+            <img src="https://upload.wikimedia.org/wikipedia/id/3/33/Logo_11Jakarta.png" alt="Logo SMAN 11" class="school-logo">
             <h1>CEK KELULUSAN SISWA</h1>
             <h2>SMA NEGERI 11 TAHUN AJARAN 2023/2024</h2>
         </header>
@@ -169,7 +169,7 @@
         </div>
         
         <footer>
-            <p>Panitia Kelulusan SMA Negeri 11</p>
+            <p>Created by Tyo Marsel INF-1</p>
             <p>Jl. Pendidikan No. 11, Kota Anda</p>
             <p>Telp: (021) 1234567 | Email: sman11@example.com</p>
         </footer>
